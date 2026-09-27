@@ -1,2 +1,3 @@
 # Git Branching & Merge Conflict
-Main branch version.
+
+This is the MAIN branch version.
