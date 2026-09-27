@@ -1,2 +1,3 @@
 # Git Branching & Merge Conflict
-Feature branch version.
+
+This is the FEATURE branch version.
